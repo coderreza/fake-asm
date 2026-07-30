@@ -1,6 +1,6 @@
 from tkinter import *
 import tkinter as tk
-import keyboard
+
 lcode = ""
 num = 0
 code = [
