@@ -1,2 +1,1 @@
-# fake-asm
-this is matrix vibe, fake asm code writing project.
+type anything you want but asm code will be displayed.
